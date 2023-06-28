@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MultNonParam"]
 	path = MultNonParam
 	url = https://github.com/cran/MultNonParam
-	shallow = true
-	registered = true
 [submodule "PHInfiniteEstimates"]
 	path = PHInfiniteEstimates
 	url = https://github.com/cran/PHInfiniteEstimates
-	shallow = true
-	registered = true
